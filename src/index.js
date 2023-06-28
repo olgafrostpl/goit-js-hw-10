@@ -1,6 +1,6 @@
-import SlimSelect from 'slim-select';
-import Notiflix from 'notiflix';
+// import SlimSelect from 'slim-select';
+// import Notiflix from 'notiflix';
 
-new SlimSelect({
-  select: '#selectElement',
-});
+// new SlimSelect({
+//   select: '#selectElement',
+// });
